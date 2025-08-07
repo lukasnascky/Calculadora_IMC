@@ -1,5 +1,5 @@
-const peso = 75
-const altura = 1.75
+let peso = 75
+let altura = 1.75
 
 const imc = peso / altura ** 2
 
